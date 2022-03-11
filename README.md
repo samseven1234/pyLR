@@ -1,1 +1,23 @@
 # pyLR
+## A simple calculator tool for Linear Regression projects.
+![screenshot](pyLr.jpg)
+In this tool, you just have to input the values of x and y, space separated and hit enter, then automatic, infos will appear such as means, summations, r value, and more!
+But first, you have to install some packages for this tool to work.
+
+Commands :
+```
+apt install python3
+pip3 install scipy
+pip3 install numpy
+pip3 install pandas
+```
+
+After installing packages, now we're ready to clone and use this by :
+```
+git clone https://github.com/samseven1234/pyLR.git
+cd pyLR
+python3 pyLR.py
+```
+And the tool should work.
+
+
