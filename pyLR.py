@@ -21,8 +21,8 @@ print(f"{cyan}~~~~~~~ LINEAR REGRESSION CALCULATOR ~~~~~~~{cyan}")
 try:
 	
 	# assigning values
-	inputX = input(f"\n {red}[•] {yellow}Enter Xs (comma separated) => {cyan}")
-	inputY = input(f"{red} [•] {yellow}Enter Ys (comma separated) => {cyan}")
+	inputX = input(f"\n {red}[•] {yellow}Enter Xs (space separated) => {cyan}")
+	inputY = input(f"{red} [•] {yellow}Enter Ys (space separated) => {cyan}")
 	
 	x = []
 	y = []
