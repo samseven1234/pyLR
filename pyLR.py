@@ -1,4 +1,6 @@
 import time
+import os
+os.system("clear")
 
 # colors 
 cyan = "\033[1;96m"
